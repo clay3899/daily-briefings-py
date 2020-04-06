@@ -45,7 +45,7 @@ MY_NAME="Jon Snow"
 run flask app with
 
 '''sh
-FLASK_APP=hello.py flask run
+FLASK_APP=web_app flask run
 '''
 
 
