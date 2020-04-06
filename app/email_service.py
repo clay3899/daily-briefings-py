@@ -31,7 +31,7 @@ if __name__ == "__main__":
     example_html = f"""
     <h3>This is a test of the Daily Briefing Service</h3>
 
-    <h4>Today's Date</h4>
+    <h2>Today's Date</h2>
     <p>Monday, January 1, 2040</p>
 
     <h4>My Stocks</h4>

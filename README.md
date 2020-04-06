@@ -41,10 +41,18 @@ MY_NAME="Jon Snow"
 
 ## Usage
 
+
+run flask app with
+
+'''sh
+FLASK_APP=hello.py flask run
+'''
+
+
 From within the virtual environment, ensure you can run each of the following files and see them produce their desired results of: printing today's weather forecast, and sending an example email, respectively.
 
 ```sh
-python app/weather_service.py
+python -m app.weather_service
 #> TODAY'S WEATHER FORECAST IS ...
 ```
 
